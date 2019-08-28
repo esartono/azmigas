@@ -1,0 +1,30 @@
+th {
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+}
+
+.nomor {
+    text-align: right;
+}
+
+.pilih {
+    padding: 30px;
+}
+
+.pilih h2 {
+    color: #fff;
+}
+
+.add-button {
+    position: absolute;
+}
+
+.add-button a {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.add-button i {
+    font-weight: bold;
+}

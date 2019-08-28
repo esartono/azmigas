@@ -1,0 +1,1 @@
+<a href="{{ $form_url }}" class='btn btn-sm btn-rounded btn-info'> DETAIL </a>
